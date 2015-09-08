@@ -12,4 +12,4 @@
     
     index.browserAgent = navigator.userAgent;
   });
-})(angular)
+})(angular);
